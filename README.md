@@ -12,9 +12,8 @@ A user-friendly web application that automates the matching process while consid
 This repo contains solely the front-end implementation. The back-end remains private.
 
 ## Showcase
-![](sc/sc3)
+![](sc/sc1)
 ![](sc/sc2)
-![](sc/sc4)
 ![](sc/sc5)
 ![](sc/sc6)
 ![](sc/sc7)
